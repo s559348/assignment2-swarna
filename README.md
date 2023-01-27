@@ -6,10 +6,10 @@
 # my favorite cricket team players
 my favorite cricket team CSK
 
-1.Jadeja.sr
-2.Raina suresh
-3.Dheepakv chahar
-4.Ambatti rayadu
+1. Jadeja.sr
+2. Raina suresh
+3. Dheepakv chahar
+4. Ambatti rayadu
 * Ms dhoni (wk)
 * Ganguly
 * Dravid
