@@ -9,3 +9,7 @@ my favorite cricket team CSK
 2.Raina suresh
 3.Dheepakv chahar
 4.Ambatti rayadu
+* Ms dhoni (wk)
+* Ganguly
+* Dravid
+* Zahir khan
