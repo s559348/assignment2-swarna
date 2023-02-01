@@ -25,4 +25,11 @@ The table's first column has country name. The second column has the reason to t
 | Uganda | Economical | 20 |
 | Singapore | Development | 365 |
 | Srilanka | Nature | 10 |
-| Argentina | Farming | 120 |
+| Argentina | Farming | 120
+
+------
+## Funny quotes
+> “I love being married. It's so great to find that one special person you want to annoy for the rest of your life.” — *Rita Rudner*
+
+> "I want my children to have all the things I couldn't afford. Then I want to move in with them.”
+— *Phyllis Diller*
