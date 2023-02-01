@@ -16,3 +16,13 @@ my favorite cricket team CSK
 * Zahir khan
 
 [Link to AboutMe](AboutMe.md)
+
+----
+## Countries that should be visited
+The table's first column has country name. The second column has the reason to travel the country and the third column has the number of the days you should spend.
+| Country | Travel reason | Days |
+|---------|---------------|-------|
+| Uganda | Economical | 20 |
+| Singapore | Development | 365 |
+| Srilanka | Nature | 10 |
+| Argentina | Farming | 120 |
