@@ -33,3 +33,28 @@ The table's first column has country name. The second column has the reason to t
 
 > "I want my children to have all the things I couldn't afford. Then I want to move in with them.”
 — *Phyllis Diller*
+
+------
+# 
+> Ways to protect email on websites<https://stackoverflow.com/questions/308772/what-are-some-ways-to-protect-emails-on-websites-from-spambots>
+```
+<?php
+	function php_split_js_make_email($phpemail)
+	{
+		$pieces = explode("@", $phpemail);
+	
+		echo '
+			<script type="text/javascript">
+				var a = "<a href=\'mailto:";
+				var b = "' . $pieces[0] . '";
+				var c = "' . $pieces[1] .'";
+				var d = "\' class=\'email\'>";
+				var e = "</a>";
+				document.write(a+b+"@"+c+d+b+"@"+c+e);
+			</script>
+			<noscript>Please enable JavaScript to view emails</noscript>
+		';
+	}
+?>
+```
+source for above code<https://css-tricks.com/snippets/php/email-protector/>
